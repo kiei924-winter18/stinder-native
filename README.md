@@ -24,11 +24,11 @@ Any idea that fits into the "to-do list" or "voting" paradigm will work for this
 
 1. Create a new React Native application in your code folder. Name it `final`.
 
-create-react-native-app final
+`create-react-native-app final`
 
 2. Add the NativeBase UI framework - https://nativebase.io/
 
-yarn add native-base
+`yarn add native-base`
 
 3. Add your newly created `final` project to GitHub.
 
